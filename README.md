@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20I'm%20Omar&fontAlignY=40&animation=fadeIn"/>
 </p>
-
 <!-- Intro -->
 <h1 align="center">👨‍💻 Md Omar Faruk Maruf</h1>
 <p align="center"> 👨‍💻 Softwere Engineer | 💼 Blockchain Developer | 🛠️ Passionate about building next generation applications</p>
