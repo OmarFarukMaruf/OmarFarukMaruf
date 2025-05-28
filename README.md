@@ -1,6 +1,6 @@
 <!-- Profile Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I'm%20Omar&fontAlign=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20I'm%20Omar&fontAlign=50&animation=fadeIn"/>
 </p>
 
 <!-- Intro -->
