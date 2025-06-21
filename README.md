@@ -10,11 +10,11 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: **Blockchain Artchitecture & smart contract integrations**
-- 🌱 Learning: **Advanced C++, System Design & Cryptographic Algorithms**
-- 💬 Ask me about: **Bitcoin internals, Git, DSA, Linux scripting**
+- 🔭 Currently working on: **Blockchain Artchitecture, Research and Development**
+- 🌱 Experienced with: **Advanced C++, Python, Computer Vision, Automonus Computing Systems & Cryptographic Algorithms**
+- 💬 Ask me about: **Bitcoin internals, Git, DSA, Deep Learning**
 - 📫 Reach me at: **mdomarfaruk.cse@gmail.com**
-- ⚡ Fun Fact: I love combining blockchain tech with real-world systems
+- ⚡ Fun Fact: I love combining blockchain tech with real-world systems, develop automonus computing systems which can operates in runtime, problem solving and coding ✌️
 
 ---
 
@@ -53,8 +53,10 @@
 ## 🛠️ Projects & Highlights
 
 - 🔗 [Bitcoin Fork Experiment](https://github.com/omarSmcLabs/smcbitcoin_v24)
-- 🔒 [Smart Contract Lab Tools](https://github.com/omarSmcLabs/smc-tools)
-- 📘 [System Design Notes](https://github.com/omarSmcLabs/system-design-notes)
+- 🔒 [Computer Vision](https://github.com/OmarFarukMaruf/SmartPhone_and_its_CameraArea_Detection)
+- 📘 [Python Projetc](https://github.com/OmarFarukMaruf/Online-buy-Python)
+- 📘 [Flutter Projetc](https://github.com/OmarFarukMaruf/Flutter_helpmate_app)
+- 📘 [Django Projetc](https://github.com/OmarFarukMaruf/Django-GreateShopping-ecommerce-website)
 
 ---
 
