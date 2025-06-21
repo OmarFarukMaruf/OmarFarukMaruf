@@ -54,9 +54,9 @@
 
 - 🔗 [Bitcoin Fork Experiment](https://github.com/omarSmcLabs/smcbitcoin_v24)
 - 🔒 [Computer Vision](https://github.com/OmarFarukMaruf/SmartPhone_and_its_CameraArea_Detection)
-- 📘 [Python Projetc](https://github.com/OmarFarukMaruf/Online-buy-Python)
-- 📘 [Flutter Projetc](https://github.com/OmarFarukMaruf/Flutter_helpmate_app)
-- 📘 [Django Projetc](https://github.com/OmarFarukMaruf/Django-GreateShopping-ecommerce-website)
+- 📘 [Python Project](https://github.com/OmarFarukMaruf/Online-buy-Python)
+- 📘 [Flutter Project](https://github.com/OmarFarukMaruf/Flutter_helpmate_app)
+- 📘 [Django Project](https://github.com/OmarFarukMaruf/Django-GreateShopping-ecommerce-website)
 
 ---
 
